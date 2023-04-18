@@ -4,7 +4,7 @@ Hi 👋 My name is Etet
 Web Developer
 -------------
 
-I like to code even if I'm still new to this domain. I like to watch anime and play Destiny 2 mostly.
+I like to code even if I'm still new to this domain. I like to watch anime and play Valorant or Destiny 2 mostly.
 
 *   🌍  I'm based in France
 *   🖥️  See my portfolio at [https://etet.moe/](http://etet.moe)
